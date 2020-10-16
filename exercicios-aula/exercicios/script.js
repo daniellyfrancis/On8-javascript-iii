@@ -62,3 +62,4 @@ const JSON_POKEMONS = [
 ]
 
 // 10. Modifique o JSON traduzindo para português as propriedades(keys) de cada pokemon.
+
